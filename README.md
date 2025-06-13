@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📚 Golang gRPC - Category Service
 
 Este projeto implementa um serviço gRPC utilizando **Go** para o gerenciamento de categorias, com persistência em **SQLite**. Ele demonstra o uso de diferentes tipos de comunicação gRPC, como chamadas unárias, streaming cliente-servidor e bidirecional, seguindo boas práticas de arquitetura como organização em pacotes `cmd`, `internal` e `proto`.
@@ -133,9 +130,3 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 
 Desenvolvido por [**Alefe Serafim**](https://github.com/aserafim)
 
-```
-
----
-
-
-```
